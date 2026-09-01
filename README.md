@@ -7,7 +7,7 @@
 
 tech enthusiast ➧ 21y ➧ he/him  
 
-I am a programmer focused on full-stack development and I have a degree in Systems Analysis and Development. I enjoy everything related to programming and I'm currently looking for a full-stack software developer position.
+I am a programmer focused on full-stack development. I hold a degree in Systems Analysis and Development and am currently pursuing a degree in Software Engineering. I enjoy everything related to programming and am currently seeking a position as a full-stack software developer.
 
 ### langs && frameworks:
 
